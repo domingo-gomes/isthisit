@@ -8,3 +8,9 @@ C:\Users\DomingoAshish.Gomes\source\repos\poc-projects\IsThisIt\IsThisIt\obj\Deb
 C:\Users\DomingoAshish.Gomes\source\repos\poc-projects\IsThisIt\IsThisIt\obj\Debug\predeploy.sql
 C:\Users\DomingoAshish.Gomes\source\repos\poc-projects\IsThisIt\IsThisIt\obj\Debug\IsThisIt.dll
 C:\Users\DomingoAshish.Gomes\source\repos\poc-projects\IsThisIt\IsThisIt\obj\Debug\IsThisIt.pdb
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\bin\Debug\IsThisIt.dacpac
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\bin\Debug\IsThisIt.dll
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\bin\Debug\IsThisIt.pdb
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\obj\Debug\IsThisIt.sqlprojAssemblyReference.cache
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\obj\Debug\IsThisIt.dll
+C:\Users\DomingoAshish.Gomes\source\repos\IsThisItv2\IsThisIt\obj\Debug\IsThisIt.pdb
